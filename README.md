@@ -14,6 +14,7 @@ The project folder contains 8 files:
 7. 5_2.py
 8. 5_3.py
 
+###
 1. preprocess.py
 
 This script contains the preprocessing steps like removing the quotes, converting to lower case, categorization and normalization.
